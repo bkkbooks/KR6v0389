@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0389/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 正史選輯（晉書、宋書、梁書、魏書、隋書、舊唐書、元史、明史）
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B17/B17n0091.xml
+    old_id: B17n0091
+hash: sha256:a0e1f99cf4a40543d8d6250c65f5d31ef78bb6072d2511f0179789be2f465690

@@ -1,0 +1,677 @@
+canonical_identifier: bkk:krp/KR6v0389/v1
+canonical_location: https://kanripo.org/bkk/KR6v0389/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 正史選輯（晉書、宋書、梁書、魏書、隋書、舊唐書、元史、明史）
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B17/B17n0091.xml
+    old_id: B17n0091
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0389_000.yaml, hash: 'sha256:a0e1f99cf4a40543d8d6250c65f5d31ef78bb6072d2511f0179789be2f465690'}
+  - {seq: 1, filename: KR6v0389_001.yaml, hash: 'sha256:04e10a1f2cbf5886da5f77f2ab336b8142828d4745a427d653e644c0b947e226'}
+  - {seq: 2, filename: KR6v0389_002.yaml, hash: 'sha256:4c2c1be6fb7d911845be249d8025c34ac28f9832e5a9d06b5b1004f7a67d38fc'}
+  - {seq: 3, filename: KR6v0389_003.yaml, hash: 'sha256:f00530ae77a034772120b6a98801db1977d8a34875f8a2431ea779d7bb61851b'}
+  - {seq: 4, filename: KR6v0389_004.yaml, hash: 'sha256:d0fc4ccafd60cfd1125789da460a2b48edfb6d7582d53256fce8b5c888baa7e1'}
+  - {seq: 5, filename: KR6v0389_005.yaml, hash: 'sha256:289bc7ac76fc6eaef685f5a012a8ebd37b9ce74e68b914e8db1a10defbf2a818'}
+  - {seq: 6, filename: KR6v0389_006.yaml, hash: 'sha256:ae6e8527d9c7f69db1d89d96b85509c3f6e5fcd0e151e41d03dcc9447740b857'}
+  - {seq: 7, filename: KR6v0389_007.yaml, hash: 'sha256:de19cb9bf17a287bab63982b32f9c00d8903c30a322464d68f8a4b75ca0a0cd8'}
+  - {seq: 8, filename: KR6v0389_008.yaml, hash: 'sha256:0ae76c703c19f1502ef5ac695d38261ba8396019e7dfbbfe215b1b377b918695'}
+  - {seq: 9, filename: KR6v0389_009.yaml, hash: 'sha256:86ce8a973c17a7aab0463f5836e90a086bc55d95f56c8ef87ddd16a18bc9b47a'}
+  - {seq: 10, filename: KR6v0389_010.yaml, hash: 'sha256:6f059458580e47cb35f91c76e5832012085c3719624e6738fde317f7b08ff709'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0389_001.markers.yaml, hash: 'sha256:df8cdbdf15ec9ce3582ba0a074884a11d43a7288dca0ccc5b2fb302f0bc0d32c'}
+  - {seq: 2, role: markers, filename: assets/KR6v0389_002.markers.yaml, hash: 'sha256:8256e3da9396a6494e8987b6182edafe264e74c212d0f942a9369ae67a9b26fe'}
+  - {seq: 3, role: markers, filename: assets/KR6v0389_003.markers.yaml, hash: 'sha256:8c58e28549dcd18225f8a53c8493dd8f1ac4cff07a02751411685b87e935bbdc'}
+  - {seq: 4, role: markers, filename: assets/KR6v0389_004.markers.yaml, hash: 'sha256:e630eb96d94dc3c4619b388b0d0d1684c937271576d662c5637fa578d3c37760'}
+  - {seq: 5, role: markers, filename: assets/KR6v0389_005.markers.yaml, hash: 'sha256:90bd7f98c7ddc3d06621affce21548da0db1f8a1fb950bed66172d448fc11158'}
+  - {seq: 6, role: markers, filename: assets/KR6v0389_006.markers.yaml, hash: 'sha256:cc8fa1a8b92fddc9edd39840c133c19fc3a754544c4450a9964ac878e403c926'}
+  - {seq: 7, role: markers, filename: assets/KR6v0389_007.markers.yaml, hash: 'sha256:22d1c3955c007da78a3b658b61629de2645d205b3f6084aa34ff219126a9b465'}
+  - {seq: 8, role: markers, filename: assets/KR6v0389_008.markers.yaml, hash: 'sha256:f4d8000d1a0014cc80b993532be261bf4281640938ffb2704d411f310950db14'}
+  - {seq: 9, role: markers, filename: assets/KR6v0389_009.markers.yaml, hash: 'sha256:ef302244ef277a7bea10cc0e620e49d6c09cff6732d12beb2d5388d785bd9b1b'}
+  - {seq: 10, role: markers, filename: assets/KR6v0389_010.markers.yaml, hash: 'sha256:d28655d093285f17adb062006f908623c5d63549772f520ec820236b22bd9779'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0389_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 5520
+  label: 晉書卷九十五
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0389_B_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 晉書．藝術傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0389_B_001-mulu-2
+    span:
+    - body
+    - 3
+    - 3
+  label: 佛圖澄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0389_B_001-mulu-3
+    span:
+    - body
+    - 2635
+    - 2635
+  label: 麻襦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0389_B_001-mulu-4
+    span:
+    - body
+    - 2973
+    - 2973
+  label: 單道開
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0389_B_001-mulu-5
+    span:
+    - body
+    - 3333
+    - 3333
+  label: 僧涉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0389_B_001-mulu-6
+    span:
+    - body
+    - 3436
+    - 3436
+  label: 鳩摩羅什
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0389_B_001-mulu-7
+    span:
+    - body
+    - 4875
+    - 4875
+  label: 曇霍
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0389_B_001-mulu-8
+    span:
+    - body
+    - 5107
+    - 5107
+  label: 臺產
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0389_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 4645
+  label: 宋書卷九十七
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0389_B_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 宋書．夷蠻傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0389_B_002-mulu-2
+    span:
+    - body
+    - 2
+    - 2
+  label: 呵羅單國
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0389_B_002-mulu-3
+    span:
+    - body
+    - 778
+    - 778
+  label: 媻皇國
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0389_B_002-mulu-4
+    span:
+    - body
+    - 941
+    - 941
+  label: 媻達國
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0389_B_002-mulu-5
+    span:
+    - body
+    - 1031
+    - 1031
+  label: 闍婆婆達國
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0389_B_002-mulu-6
+    span:
+    - body
+    - 1290
+    - 1290
+  label: 師子國
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0389_B_002-mulu-7
+    span:
+    - body
+    - 1460
+    - 1460
+  label: 天竺迦毗黎國
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0389_B_002-mulu-8
+    span:
+    - body
+    - 1932
+    - 1932
+  label: 蘇摩黎國等
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0389_B_002-mulu-9
+    span:
+    - body
+    - 2789
+    - 2789
+  label: 道生
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0389_B_002-mulu-10
+    span:
+    - body
+    - 2858
+    - 2858
+  label: 慧琳
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0389_B_002-mulu-11
+    span:
+    - body
+    - 4519
+    - 4519
+  label: 慧嚴、慧議、明慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 7337
+  label: 梁書卷五十四
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 梁書．諸夷傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-mulu-2
+    span:
+    - body
+    - 3
+    - 3
+  label: 扶南國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-mulu-3
+    span:
+    - body
+    - 2917
+    - 2917
+  label: 盤盤國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-mulu-4
+    span:
+    - body
+    - 3082
+    - 3082
+  label: 丹丹國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-mulu-5
+    span:
+    - body
+    - 3201
+    - 3201
+  label: 干陁利國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-mulu-6
+    span:
+    - body
+    - 3663
+    - 3663
+  label: 狼牙脩國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-mulu-7
+    span:
+    - body
+    - 4097
+    - 4097
+  label: 婆利國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-mulu-8
+    span:
+    - body
+    - 4619
+    - 4619
+  label: 中天竺國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-mulu-9
+    span:
+    - body
+    - 5719
+    - 5719
+  label: 師子國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-mulu-10
+    span:
+    - body
+    - 6068
+    - 6068
+  label: 東夷之國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-mulu-11
+    span:
+    - body
+    - 6162
+    - 6162
+  label: 高句驪
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-mulu-12
+    span:
+    - body
+    - 6523
+    - 6523
+  label: 扶桑國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0389_B_003-mulu-13
+    span:
+    - body
+    - 7141
+    - 7141
+  label: 西北諸戎
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0389_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 13270
+  label: 魏書卷一百一十四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0389_B_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 魏書．釋老志
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0389_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 2443
+  label: 隋書卷三十五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0389_B_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 隋書．經籍志
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0389_B_006-juan-start
+    span:
+    - body
+    - 0
+    - 2126
+  label: 舊唐書卷一百九十一
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0389_B_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 舊唐書．方伎傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0389_B_006-mulu-2
+    span:
+    - body
+    - 19
+    - 19
+  label: 玄奘
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0389_B_006-mulu-3
+    span:
+    - body
+    - 382
+    - 382
+  label: 神秀（附慧能、普寂、義福）
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0389_B_006-mulu-4
+    span:
+    - body
+    - 1325
+    - 1325
+  label: 一行（附泓師）
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0389_B_007-juan-start
+    span:
+    - body
+    - 0
+    - 1481
+  label: 舊唐書卷一百九十八
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0389_B_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 舊唐書．西戎傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0389_B_008-juan-start
+    span:
+    - body
+    - 0
+    - 5851
+  label: 元史卷二百二
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0389_B_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 元史．釋老傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0389_B_009-juan-start
+    span:
+    - body
+    - 0
+    - 3884
+  label: 明史卷三百三十
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0389_B_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 明史．西域傳二
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0389_B_009-mulu-2
+    span:
+    - body
+    - 54
+    - 54
+  label: 西番諸衛
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0389_B_010-juan-start
+    span:
+    - body
+    - 0
+    - 6353
+  label: 明史卷三百三十一
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0389_B_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 明史．西域傳三
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0389_B_010-mulu-2
+    span:
+    - body
+    - 53
+    - 53
+  label: 烏斯藏大寶法王
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0389_B_010-mulu-3
+    span:
+    - body
+    - 1821
+    - 1821
+  label: 大乘法王
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0389_B_010-mulu-4
+    span:
+    - body
+    - 2330
+    - 2330
+  label: 大慈法王
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0389_B_010-mulu-5
+    span:
+    - body
+    - 3416
+    - 3416
+  label: 闡化王
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0389_B_010-mulu-6
+    span:
+    - body
+    - 4775
+    - 4775
+  label: 贊善王
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0389_B_010-mulu-7
+    span:
+    - body
+    - 5229
+    - 5229
+  label: 護教王
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0389_B_010-mulu-8
+    span:
+    - body
+    - 5333
+    - 5333
+  label: 闡教王
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0389_B_010-mulu-9
+    span:
+    - body
+    - 5639
+    - 5639
+  label: 輔教王
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0389_B_010-mulu-10
+    span:
+    - body
+    - 5917
+    - 5917
+  label: 西天阿難功德國
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0389_B_010-mulu-11
+    span:
+    - body
+    - 6084
+    - 6084
+  label: 西天尼八剌國
+  type: mulu
+  level: 1
+hash: sha256:fad715f747159716610f4e60dde6745390af80956254ecc114775c8dc8e424a7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
